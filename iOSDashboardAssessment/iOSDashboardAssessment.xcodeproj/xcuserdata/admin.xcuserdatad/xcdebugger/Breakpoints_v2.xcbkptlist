@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E4CDC293-164B-4CCA-ACE5-A757D98E5B1E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "17CF9877-56CE-464D-B4C0-574DA194E0EA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSDashboardAssessment/ViewModel/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "fetchWidthProportionOfProgressBarForInvoice(status:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "17CF9877-56CE-464D-B4C0-574DA194E0EA - ecad74e14c0d1c72"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSDashboardAssessment.ViewModel.fetchWidthProportionOfProgressBarForInvoice(status: SampleData.InvoiceStatus) -&gt; Swift.Double"
+                  moduleName = "iOSDashboardAssessment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Downloads/iOSDashboardAssessment/iOSDashboardAssessment/ViewModel/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "17CF9877-56CE-464D-B4C0-574DA194E0EA - ecad74e14c0d1c72"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSDashboardAssessment.ViewModel.fetchWidthProportionOfProgressBarForInvoice(status: SampleData.InvoiceStatus) -&gt; Swift.Double"
+                  moduleName = "iOSDashboardAssessment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Downloads/iOSDashboardAssessment/iOSDashboardAssessment/ViewModel/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
